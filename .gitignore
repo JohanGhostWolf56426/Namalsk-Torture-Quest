@@ -29,3 +29,8 @@ whitelist.txt
 *.RPT
 *.log
 /Profilesfolder/Users
+/@CF
+/@Community-Online-Tools
+Profilesfolder/CommunityOnlineTools/Weather.json
+Profilesfolder/CommunityOnlineTools/Webhooks.json
+Profilesfolder/PermissionsFramework
