@@ -19,3 +19,13 @@ server_manager/Server_manager.ps1
 *.dll
 steam_appid.txt
 whitelist.txt
+/@Namalsk Island
+/@Namalsk Survival
+*.vdf
+/logs
+/Profilesfolder/DataCache
+*.ADM
+/mpmissions/hardcore.namalsk/storage_1
+*.RPT
+*.log
+/Profilesfolder/Users
