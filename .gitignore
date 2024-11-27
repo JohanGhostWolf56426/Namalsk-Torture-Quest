@@ -1,36 +1,33 @@
 
-*.pbo
-*.bisign
+/@CF
+/@Community-Online-Tools
+/@Namalsk Island
+/@Namalsk Survival
+/addons
+/appcache
 ban.txt
 /battleye
+/config
 dayz.gproj
 DayZServer_x64.exe
 dayzsetting.xml
-docs/EULA.txt
-docs/LegalNotices.txt
-*.bin
-*.bikey
-*.ebo
-server_manager/example_launch_params.txt
-server_manager/example_mod_list.txt
-server_manager/example_server_mod_list.txt
-server_manager/readme.txt
-server_manager/Server_manager.ps1
+/docs
+/dta
+/keys
+/logs
+/mpmissions/hardcore.namalsk/storage_1
+/Profilesfolder/BattlEye
+/Profilesfolder/CommunityOnlineTools
+Profilesfolder/crash_2024-11-26_11-25-31.log
+/Profilesfolder/DataCache
+*.ADM
+*.RPT
+/Profilesfolder/PermissionsFramework
+*.log
+/Profilesfolder/Users
+/sakhal
+/server_manager
 *.dll
 steam_appid.txt
 whitelist.txt
-/@Namalsk Island
-/@Namalsk Survival
-*.vdf
-/logs
-/Profilesfolder/DataCache
-*.ADM
-/mpmissions/hardcore.namalsk/storage_1
-*.RPT
-*.log
-/Profilesfolder/Users
-/@CF
-/@Community-Online-Tools
-Profilesfolder/CommunityOnlineTools/Weather.json
-Profilesfolder/CommunityOnlineTools/Webhooks.json
-Profilesfolder/PermissionsFramework
+/@MoonShining
