@@ -1,0 +1,13 @@
+{
+    "m_Version": 6,
+    "m_DisplayName": "Namalsk Trading Zone",
+    "Position": [
+        6884.898926,
+        26.024328,
+        10974.802734
+    ],
+    "Radius": 100.0,
+    "BuyPricePercent": 100.0,
+    "SellPricePercent": -1.0,
+    "Stock": {}
+}
